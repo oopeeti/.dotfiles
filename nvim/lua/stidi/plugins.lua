@@ -47,6 +47,7 @@ return require('packer').startup(function(use)
         }
     }
 
+    use("nvim-tree/nvim-web-devicons")
     use("folke/zen-mode.nvim")
     use("github/copilot.vim")
 
