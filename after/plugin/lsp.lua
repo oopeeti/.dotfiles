@@ -8,6 +8,11 @@ lsp.ensure_installed({
 	"cssls",
 	"tailwindcss",
 	"rust_analyzer",
+	"svelte",
+	"graphgl",
+	"emmet_ls",
+	"prismals",
+	"pyright",
 })
 
 -- Fix Undefined global 'vim'
