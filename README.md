@@ -5,7 +5,7 @@
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - For Telescope Fuzzy Finder
 - If working with typescript/javascript you need to install node.
 
-If you're on mac, like me, you can install iTerm2, Neovim, Ripgrep and Node with homebrew.
+If you're on mac, you can install iTerm2, Neovim, Ripgrep and Node with homebrew.
 ```bash
 brew install --cask iterm2
 ```
