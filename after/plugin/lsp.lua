@@ -9,7 +9,7 @@ lsp.ensure_installed({
 	"tailwindcss",
 	"rust_analyzer",
 	"svelte",
-	"graphgl",
+	"graphql",
 	"emmet_ls",
 	"prismals",
 	"pyright",
