@@ -30,5 +30,3 @@ vim.keymap.set("n", "<leader>ps", builtin.live_grep, {})
 vim.keymap.set("n", "<leader>pg", builtin.git_files, {})
 vim.keymap.set("n", "<leader>pb", builtin.buffers, {})
 vim.keymap.set("n", "<leader>vh", builtin.help_tags, {})
-
-telescope.load_extension("fzf")
